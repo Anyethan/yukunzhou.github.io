@@ -2,64 +2,53 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Selected research, simulation, graphics, HCI, and game projects.
+description: Selected implementation projects from simulation, games, graphics, and machine learning.
 nav: true
 nav_order: 3
-display_categories: [simulation, games-hci, graphics]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div class="project-list">
+  <article class="project-entry">
+    <div class="project-thumb">Image placeholder</div>
+    <div class="project-copy">
+      <h2>Physics-Based Simulations</h2>
+      <p>
+        Implemented mass-spring systems, keyframe insertion with Quaternion and Euler approaches, and inverse kinematics with pseudo-inverse and Tikhonov regularization methods in C++.
+      </p>
+      <p class="project-tags">C++ / physics-based animation / inverse kinematics</p>
     </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+  </article>
 
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+  <article class="project-entry">
+    <div class="project-thumb">Video or image placeholder</div>
+    <div class="project-copy">
+      <h2>Game Development: Lucidmare, PL-23, and Donuts!</h2>
+      <p>
+        Developed Unity 3D programs, led and designed three game projects: Lucidmare (demo), PL-23 (demo), and Donuts! (published on Steam).
+      </p>
+      <p class="project-tags">Unity / game design / C# / Steam release</p>
     </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
+  </article>
+
+  <article class="project-entry">
+    <div class="project-thumb">Rendering placeholder</div>
+    <div class="project-copy">
+      <h2>3D Human Rendering</h2>
+      <p>
+        Built a 3D graphics course project under Unity, achieving URP rendering, hair anisotropy, and skin separable subsurface scattering. I also learned and deployed skin separable subsurface scattering in GLSL.
+      </p>
+      <p class="project-tags">Unity URP / GLSL / skin shading / hair anisotropy</p>
+    </div>
+  </article>
+
+  <article class="project-entry">
+    <div class="project-thumb">Figure placeholder</div>
+    <div class="project-copy">
+      <h2>NLP for Finance</h2>
+      <p>
+        Advised by Dr Linqi Song at City University of Hong Kong. Applied deep learning methods and developed a BERT model in PyTorch to analyze sentiment from large-scale financial comments.
+      </p>
+      <p class="project-tags">PyTorch / BERT / sentiment analysis / finance</p>
+    </div>
+  </article>
 </div>

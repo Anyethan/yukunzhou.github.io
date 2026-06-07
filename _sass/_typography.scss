@@ -35,6 +35,36 @@ table {
   }
 }
 
+body {
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+
+.post .post-header .post-title {
+  font-size: 1.7rem;
+  line-height: 1.25;
+}
+
+.post h2,
+.page h2,
+article h2 {
+  font-size: 1.32rem;
+  line-height: 1.35;
+  margin-top: 1.25rem;
+}
+
+.post h3,
+.page h3,
+article h3 {
+  font-size: 1.08rem;
+  line-height: 1.4;
+}
+
+p,
+li {
+  line-height: 1.65;
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);

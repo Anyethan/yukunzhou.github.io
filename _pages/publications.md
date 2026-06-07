@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Manuscripts and research output.
-nav: true
+nav: false
 nav_order: 4
 ---
 

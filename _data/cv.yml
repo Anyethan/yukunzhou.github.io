@@ -44,7 +44,7 @@ cv:
         summary: Advised by Dr Zhongkai Zhang.
         highlights:
           - Finished main experiments and produced a paper draft on accurate rod-insertion simulation algorithms based on Projective Dynamics, Cosserat rods, Lagrangian constraint-based methods, and thickness-aware rod contact pressure and friction.
-          - Worked on the optimization of Vertex Block Descending.
+          - Worked on the optimization of Vertex Block Descent.
           - Developed and reproduced SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank update methods, and lung puncturing by Warp.
           - Completed human brain 3D reconstruction from MRI images using neural networks.
 
@@ -96,7 +96,7 @@ cv:
           - Manipulated databases and processed data with Python to support database building and maintenance.
 
     Publications:
-      - title: About the Optimization of Vertex Block Descending
+      - title: About the Optimization of Vertex Block Descent
         authors:
           - Anonymous Author
           - Yukun Zhou
@@ -125,7 +125,7 @@ cv:
         summary: Implemented mass-spring systems, keyframe interpolation with quaternion and Euler approaches, inverse kinematics with pseudo-inverse and Tikhonov regularization methods, and related simulation components in C++.
 
       - name: Unity Game Development
-        summary: Led, designed, and developed Unity 3D game projects including Lucidmare, Omnis, and Donuts!, with Donuts! published on Steam.
+        summary: Led, designed, and developed Unity 3D game projects including Lucidmare, PL-23, and Donuts!, with Donuts! published on Steam.
 
       - name: 3D Human Rendering
         summary: Built a 3D graphics course project with URP, hair anisotropy, and skin separable subsurface scattering under Unity, including GLSL deployment of skin separable subsurface scattering.

@@ -30,9 +30,9 @@ Status: manuscript in preparation, 2026.
 
 <div class="media-placeholder media-placeholder-video mt-3">Video placeholder: rod insertion demo</div>
 
-### Vertex Block Descending Optimization
+### Vertex Block Descent Optimization
 
-I am also working on optimization of Vertex Block Descending, including solver behavior, numerical performance, and practical integration with simulation pipelines.
+I am also working on optimization of Vertex Block Descent, including solver behavior, numerical performance, and practical integration with simulation pipelines.
 
 Status: manuscript submitted, 2026.
 

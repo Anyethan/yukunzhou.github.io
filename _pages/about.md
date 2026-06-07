@@ -14,7 +14,7 @@ profile:
     <p>Hong Kong</p>
     <p><a href="mailto:yukunzhou450@gmail.com">yukunzhou450@gmail.com</a></p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -37,6 +37,6 @@ My broader experience spans fluid simulation, differentiable cutting, FEM and so
 Recent directions:
 
 - Accurate rod insertion with thickness-aware contact pressure and rotational friction.
-- Optimization of Vertex Block Descending for simulation systems.
+- Optimization of Vertex Block Descent for simulation systems.
 - Neural and particle flow maps for accelerated fluid simulation.
 - Game-centered HCI research and interactive systems for AR glasses.
