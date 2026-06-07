@@ -4,33 +4,39 @@ title: Home
 permalink: /
 nav: true
 nav_order: 1
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Physics-Based Simulation, Computer Graphics, HCI, and Game Development
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Hong Kong</p>
+    <p><a href="mailto:yukunzhou450@gmail.com">yukunzhou450@gmail.com</a></p>
 
-selected_papers: false # keep publications section hidden for now
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false # keep news hidden for now
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: false # keep latest posts hidden for now
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Yukun Zhou, a computer science researcher working on physics-based simulation, computer graphics, and interactive systems. My current research focuses on accurate rod-insertion simulation, thickness-aware contact pressure and friction, Projective Dynamics, Cosserat rods, and optimization methods for simulation solvers.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am on a Joint RA-PhD track in physics-based simulation with Dr Zhongkai Zhang, affiliated with the Chinese Academy of Sciences Hong Kong Institute of Science and Innovation and the Chinese University of Hong Kong. I completed my M.S. in Computer Science - Game Development at the University of Southern California and my B.S. in Computer Science with a minor in Creative Media at City University of Hong Kong.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My broader experience spans fluid simulation, differentiable cutting, FEM and soft-body contact, neural 3D reconstruction, HCI research on games and player well-being, AR glasses gesture recognition, Unity game development, and real-time graphics.
+
+Recent directions:
+
+- Accurate rod insertion with thickness-aware contact pressure and rotational friction.
+- Optimization of Vertex Block Descending for simulation systems.
+- Neural and particle flow maps for accelerated fluid simulation.
+- Game-centered HCI research and interactive systems for AR glasses.

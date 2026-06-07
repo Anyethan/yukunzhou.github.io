@@ -259,3 +259,20 @@ ul.task-list input[type="checkbox"] {
 .d2h-diff-table {
   position: relative;
 }
+
+.media-placeholder {
+  min-height: 220px;
+  border: 1px dashed var(--global-divider-color);
+  border-radius: 6px;
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  text-align: center;
+}
+
+.media-placeholder-video {
+  min-height: 320px;
+}
