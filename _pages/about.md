@@ -73,7 +73,23 @@ My broader experience spans fluid simulation, differentiable cutting, FEM and so
 
 ## Publications
 
-{% include selected_papers.liquid %}
+<div class="project-list">
+  <article class="project-entry">
+    <div class="project-thumb">Submitted</div>
+    <div class="project-copy">
+      <h3>About the Optimization of Vertex Block Descent</h3>
+      <p>Anonymous Author, Yukun Zhou, and other authors. Manuscript submitted, 2026.</p>
+    </div>
+  </article>
+
+  <article class="project-entry">
+    <div class="project-thumb">In Prep.</div>
+    <div class="project-copy">
+      <h3>Thickness-Aware Rod Insertion Simulation with Rotational Friction</h3>
+      <p>Yukun Zhou and other authors. Manuscript in preparation, 2026.</p>
+    </div>
+  </article>
+</div>
 
 ## Education
 
