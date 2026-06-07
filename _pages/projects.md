@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Selected implementation projects from simulation, games, graphics, and machine learning.
-nav: true
+nav: false
 nav_order: 3
 ---
 

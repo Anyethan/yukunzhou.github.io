@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 description: Research work in physics-based simulation, computer graphics, HCI, and interactive systems.
-nav: true
+nav: false
 nav_order: 2
 ---
 
