@@ -185,6 +185,10 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - .github/
+  - AGENTS.md
+  - ANALYTICS.md
+  - CLAUDE.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
@@ -196,9 +200,25 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - SEO.md
+  - QUICKSTART.md
+  - TROUBLESHOOTING.md
+  - _books/
+  - _news/
+  - _posts/
+  - _teachings/
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/art.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _pages/profiles.md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/

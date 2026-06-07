@@ -3,7 +3,7 @@ layout: page
 title: Art
 permalink: /art/
 description: Photography, game projects, and visual work.
-nav: true
+nav: false
 nav_order: 4
 ---
 

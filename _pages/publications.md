@@ -7,14 +7,4 @@ nav: false
 nav_order: 4
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+This page is currently hidden from the navigation. Manuscripts are summarized on the Research and CV pages.
