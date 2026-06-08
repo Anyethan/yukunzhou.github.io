@@ -7,20 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science researcher and developer working across physics-based simulation, computer graphics, game technology, and creative media. My current work focuses on robust simulation methods for deformable objects, rods, contact, friction, cutting, and interactive physical systems.
+
 
 About Me
 ======
 
-I received my M.S. in Computer Science - Game Development from the University of Southern California and my B.S. in Computer Science with a Minor in Creative Media from City University of Hong Kong. My background combines simulation research, graphics engineering, game development, HCI, and applied machine learning.
+I received my M.S. in Computer Science - Game Development from the University of Southern California and my B.S. in Computer Science with a Minor in Creative Media from City University of Hong Kong. My background combines physics-based simulation research, graphics engineering, game development, HCI, and applied machine learning.
 
-I am especially interested in building simulation and graphics systems that are physically meaningful, computationally efficient, and useful for interactive applications. My full CV is available from the sidebar.
+I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications.
 
 Education
 ======
 
 - **University of Southern California**, M.S. in Computer Science - Game Development, 2023 - 2025. CGPA: 3.87 / 4.0.
-- **City University of Hong Kong**, B.S. in Computer Science, Minor in Creative Media, 2019 - 2023. First Class Honors; CGPA: 3.8 / 4.3; top 14 out of 144 Computer Science students.
+- **City University of Hong Kong**, B.S. in Computer Science, Minor in Creative Media, 2019 - 2023. First Class Honors; CGPA: 3.8 / 4.3; top 10%
+
+Research Output
+======
+
+- **Manuscript under review**: Anonymous author, Yukun Zhou, and other authors. About the optimization of Vertex Block Descent. Manuscript submitted, 2026.
+- **Manuscript in preparation**: Yukun Zhou and other authors. Thickness-Aware Rod Insertion Simulation with Rotational Friction. Manuscript in preparation, 2026.
 
 Research
 ======
