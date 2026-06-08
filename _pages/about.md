@@ -14,7 +14,7 @@ About Me
 
 My background combines physics-based simulation research, graphics engineering, game development, HCI, and applied machine learning.
 
-I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications. My research focuses on physics-based simulation and optimization for deformable objects. Recently, I have worked on rod insertion, soft-body projective dynamics, cutting simulation, and contributed to VBD-based optimization methods.
+I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications. My research focuses on physics-based simulation and optimization for deformable objects. <span style="color: #8B5A2B;">Recently, I have worked on rod insertion, soft-body projective dynamics, cutting simulation, and contributed to VBD-based optimization methods.</span>
 
 Education
 ======
@@ -53,7 +53,7 @@ Projects
 ======
 
 - **Physics-Based Simulation Systems**: Implemented a mass-spring system, keyframe interpolation with quaternion and Euler approaches, and inverse kinematics with pseudo-inverse and Tikhonov regularization methods in C++.
-- **Game Development**: Developed Unity 3D games including Lucidmare, PL-23, and Donuts!, covering gameplay programming, technical design, and team leadership. Donuts! was published on Steam.
+- **Game Development**: Developed Unity 3D games including Lucidmare, PL-23, and Donuts!, covering gameplay programming, technical design, and team leadership. Donuts! was published on Steam. See Art.
 - **3D Human Rendering**: Built a Unity rendering project with URP, hair anisotropy, and skin separable subsurface scattering, including GLSL deployment for skin shading.
 - **Hand-Scratching Gesture Recognition for AR Glasses**: Developed an Android application using CNN models to classify scratching sounds on AR glasses in real time, advised by Dr. Kening Zhu.
 - **NLP for Finance**: Built a PyTorch BERT sentiment analysis model for large-scale financial comments, advised by Dr. Linqi Song.
