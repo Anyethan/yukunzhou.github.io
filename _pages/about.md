@@ -12,9 +12,9 @@ redirect_from:
 About Me
 ======
 
-I received my M.S. in Computer Science - Game Development from the University of Southern California and my B.S. in Computer Science with a Minor in Creative Media from City University of Hong Kong. My background combines physics-based simulation research, graphics engineering, game development, HCI, and applied machine learning.
+My background combines physics-based simulation research, graphics engineering, game development, HCI, and applied machine learning.
 
-I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications.
+I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications. My research focuses on physics-based simulation and optimization for deformable objects. Recently, I have worked on rod insertion, soft-body projective dynamics, cutting simulation, and contributed to VBD-based optimization methods.
 
 Education
 ======
