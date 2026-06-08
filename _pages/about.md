@@ -31,15 +31,21 @@ Research Output
 Research
 ======
 
-- **Physics-Based Simulation, Joint RA-PhD Track**, Chinese Academy of Sciences (Hong Kong Institute of Science and Innovation) and The Chinese University of Hong Kong, advised by Dr. Zhongkai Zhang, July 2025 - June 2026.
+- **Research Assistant, Joint RA-PhD Track - Physics-Based Simulation**<br>
+  Chinese Academy of Sciences (Hong Kong Institute of Science and Innovation) and The Chinese University of Hong Kong, Hong Kong<br>
+  Advised by Dr. Zhongkai Zhang, July 2025 - June 2026.
   - Working on accurate rod-insertion simulation based on Projective Dynamics, Cosserat rods, Lagrangian constraint-based methods, thickness-aware contact pressure, and rotational friction.
   - Contributed to optimization work for the Vertex Block Descent project and manuscript.
   - Developed and reproduced simulation systems including SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank updates, and lung puncturing simulation with Warp.
   - Completed human brain 3D reconstruction from MRI images using neural networks.
-- **Fluid Simulation, Neural and Particle Flow Map**, Georgia Institute of Technology, advised by Dr. Bo Zhu, June 2024 - September 2024.
+- **Summer Research Intern - Fluid Simulation about Neural and Particle Flow Map**<br>
+  Georgia Institute of Technology, Atlanta, USA<br>
+  Advised by Dr. Bo Zhu, June 2024 - September 2024.
   - Replicated the Neural Flow Map algorithm in Taichi and developed a real-time 3D stable fluid simulation using OpenGL compute shaders.
   - Accelerated Particle Flow Map simulation with long-range mapping and short-range projection, achieving an 80% speed improvement.
-- **HCI Research on Games and Players**, City University of Hong Kong, advised by Dr. Zhicong Lu, June 2022 - September 2023.
+- **Part-time Research Assistant - HCI Research on Games and Players**<br>
+  City University of Hong Kong, Hong Kong<br>
+  Advised by Dr. Zhicong Lu, June 2022 - September 2023.
   - Led a first-author research project on games, ICT4D, player experience, and well-being.
   - Developed design implications and application scenarios for improving player well-being through game-related systems.
 
