@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Yukun Ethan Zhou"
+hide_title: true
 author_profile: true
 redirect_from:
   - /about/
