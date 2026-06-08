@@ -20,8 +20,8 @@ I am especially interested in developing physics-based simulation algorithms and
 Education
 ======
 
-- **University of Southern California**, M.S. in Computer Science - Game Development, 2023 - 2025. CGPA: 3.87 / 4.0.
-- **City University of Hong Kong**, B.S. in Computer Science, Minor in Creative Media, 2019 - 2023. First Class Honors; CGPA: 3.8 / 4.3; top 10%
+- **[University of Southern California](https://www.usc.edu/)**, M.S. in Computer Science - Game Development, 2023 - 2025. CGPA: 3.87 / 4.0.
+- **[City University of Hong Kong](https://www.cityu.edu.hk/en)**, B.S. in Computer Science, Minor in Creative Media, 2019 - 2023. First Class Honors; CGPA: 3.8 / 4.3; top 10%
 
 Research Output
 ======
