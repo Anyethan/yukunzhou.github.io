@@ -41,7 +41,7 @@ cv:
         location: Hong Kong
         start_date: 2025-07
         end_date: 2026-06
-        summary: Advised by Dr Zhongkai Zhang.
+        summary: "Advised by Dr [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=IsXcUo4AAAAJ&view_op=list_works&sortby=pubdate)."
         highlights:
           - Finished main experiments and produced a paper draft on accurate rod-insertion simulation algorithms based on Projective Dynamics, Cosserat rods, Lagrangian constraint-based methods, and thickness-aware rod contact pressure and friction.
           - Worked on the optimization of Vertex Block Descent.
@@ -53,7 +53,7 @@ cv:
         location: Atlanta, GA, USA
         start_date: 2024-06
         end_date: 2024-09
-        summary: Advised by Dr Bo Zhu.
+        summary: "Advised by Dr [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/)."
         highlights:
           - Replicated the Neural Flow Map algorithm with Taichi.
           - Developed real-time 3D stable fluid simulation with OpenGL Compute Shader.
@@ -64,7 +64,7 @@ cv:
         location: Hong Kong
         start_date: 2022-06
         end_date: 2023-09
-        summary: Advised by Dr Zhicong Lu.
+        summary: "Advised by Dr [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/)."
         highlights:
           - Produced a paper submitted to a top-tier conference as the only first author.
           - Completed an HCI research project on games and ICT4D, with design implications for player well-being and future application scenarios.
@@ -84,7 +84,7 @@ cv:
         location: Los Angeles, CA, USA
         start_date: 2025-01
         end_date: 2025-05
-        summary: Course grader for Dr Jernej Barbic.
+        summary: "Grader under [Dr. Jernej Barbic](https://viterbi-web.usc.edu/~jbarbic/) for [CSCI 520: Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s25/)."
 
       - company: Siemens Mobility
         position: Data Science Intern
