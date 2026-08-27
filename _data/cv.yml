@@ -1,16 +1,17 @@
 cv:
   name: Yukun Zhou
-  label: Computer Science Researcher
+  headline: Computer Science Researcher
   email: yukunzhou450@gmail.com
   location: Hong Kong
-  image: ""
-  summary: Researcher in physics-based simulation, computer graphics, HCI, and game development, with experience in rod simulation, contact and friction, fluid simulation, real-time graphics, AR interaction, and machine learning systems.
 
   social_networks:
     - network: GitHub
       username: Anyethan
 
   sections:
+    Summary:
+      - Researcher in physics-based simulation, computer graphics, HCI, and game development, with experience in rod simulation, contact and friction, fluid simulation, real-time graphics, AR interaction, and machine learning systems.
+
     Education:
       - institution: University of Southern California
         location: Los Angeles, CA, USA
@@ -101,24 +102,24 @@ cv:
           - Anonymous Author
           - Yukun Zhou
           - Other Authors
-        publisher: Manuscript submitted
-        releaseDate: 2026
+        journal: Manuscript submitted
+        date: 2026
 
       - title: Thickness-Aware Rod Insertion Simulation with Rotational Friction
         authors:
           - Yukun Zhou
           - Other Authors
-        publisher: Manuscript in preparation
-        releaseDate: 2026
+        journal: Manuscript in preparation
+        date: 2026
 
     Awards:
-      - title: Entrance Full Tuition Scholarship
+      - name: Entrance Full Tuition Scholarship
         date: 2019-2023
-        awarder: City University of Hong Kong
+        location: City University of Hong Kong
 
-      - title: Dean's List Awards for Outstanding Academic Performance
+      - name: Dean's List Awards for Outstanding Academic Performance
         date: 2019-2023
-        awarder: City University of Hong Kong
+        location: City University of Hong Kong
 
     Projects:
       - name: Physics-Based Simulations
@@ -134,47 +135,17 @@ cv:
         summary: Advised by Dr Linqi Song at City University of Hong Kong. Developed a BERT model in PyTorch to analyze sentiment across large-scale financial comments.
 
     Skills:
-      - name: Simulation and Graphics
-        keywords:
-          - Projective Dynamics
-          - FEM
-          - Cosserat rods
-          - SDF contact
-          - differentiable cutting
-          - OpenGL Compute Shader
-          - Taichi
-          - Unity
-          - GLSL
+      - label: Simulation and Graphics
+        details: Projective Dynamics, FEM, Cosserat rods, SDF contact, differentiable cutting, OpenGL Compute Shader, Taichi, Unity, GLSL
 
-      - name: Machine Learning
-        keywords:
-          - CNN
-          - BERT
-          - PyTorch
-          - neural 3D reconstruction
-          - time-series modelling
-          - bi-LSTM
-          - encoder-decoder LSTM
-          - ARIMA
+      - label: Machine Learning
+        details: CNN, BERT, PyTorch, neural 3D reconstruction, time-series modelling, bi-LSTM, encoder-decoder LSTM, ARIMA
 
-      - name: Programming
-        keywords:
-          - Python
-          - C
-          - Java
-          - C++
-          - Processing
-          - JavaScript
-          - HTML
-          - CSS
-          - SQL
+      - label: Programming
+        details: Python, C, Java, C++, Processing, JavaScript, HTML, CSS, SQL
 
-      - name: Other Technical Skills
-        keywords:
-          - AI programming
-          - drone programming
-          - digital art and installation
-          - game design and development
+      - label: Other Technical Skills
+        details: AI programming, drone programming, digital art and installation, game design and development
 
     Languages:
       - name: Mandarin
