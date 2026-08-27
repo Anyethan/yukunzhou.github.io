@@ -304,6 +304,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+third_party_libraries: {}
 
 # Plugins
 plugins:
