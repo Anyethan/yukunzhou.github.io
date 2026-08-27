@@ -42,7 +42,7 @@ Status: manuscript submitted, 2026.
 
 ### Neural and Particle Flow Maps for Fluid Simulation
 
-During a summer research internship at Georgia Institute of Technology with Dr Bo Zhu, I replicated the Neural Flow Map algorithm in Taichi and developed a real-time 3D stable fluid simulation using OpenGL Compute Shader. I also worked on accelerating Particle Flow Map with long-range mapping and short-range projection, reaching an 80% speed improvement.
+During a summer research internship at Georgia Institute of Technology with Dr [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), I replicated the Neural Flow Map algorithm in Taichi and developed a real-time 3D stable fluid simulation using OpenGL Compute Shader. I also worked on accelerating Particle Flow Map with long-range mapping and short-range projection, reaching an 80% speed improvement.
 
 <div class="row">
   <div class="col-md-6 mt-3">
@@ -55,7 +55,7 @@ During a summer research internship at Georgia Institute of Technology with Dr B
 
 ### HCI Research on Games and Players
 
-As a part-time research assistant at City University of Hong Kong with Dr Zhicong Lu, I studied games, players, and well-being. The project produced a manuscript submitted to a top-tier conference, with me as the only first author, and developed design implications for games and ICT4D applications.
+As a part-time research assistant at City University of Hong Kong with Dr [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), I studied games, players, and well-being. The project produced a manuscript submitted to a top-tier conference, with me as the only first author, and developed design implications for games and ICT4D applications.
 
 <div class="media-placeholder mt-3">Image placeholder: study overview, interface, or analysis figure</div>
 
