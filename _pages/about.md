@@ -60,6 +60,17 @@ Projects
 - **NLP for Finance**: Built a PyTorch BERT sentiment analysis model for large-scale financial comments, advised by Dr. Linqi Song.
 - **Transportation Data Science**: At Siemens Mobility Hong Kong, developed map matching, route matching, traffic flow prediction, and time-series models including bi-LSTM, encoder-decoder LSTM, and ARIMA.
 
+Work Experience
+======
+
+- **Grader for [CSCI 520: Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s25/)**<br>
+  University of Southern California, Los Angeles, USA<br>
+  Course taught by Dr. [Jernej Barbic](https://viterbi-web.usc.edu/~jbarbic/), January 2025 - May 2025.
+- **Data Science Intern (Full-time, Four Days a Week)**<br>
+  Siemens Mobility, Hong Kong, June 2021 - March 2022.
+  - Designed and developed map matching, route matching, traffic flow prediction algorithms, and machine-learning time-series models including bi-LSTM, encoder-decoder LSTM, and ARIMA.
+  - Manipulated databases and processed data in Python to support database development and maintenance.
+
 Awards
 ======
 
