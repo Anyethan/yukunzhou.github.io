@@ -15,7 +15,9 @@ About Me
 
 My background combines physics-based simulation research, graphics engineering, game development, HCI, and applied machine learning.
 
-I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications. My research focuses on physics-based simulation and optimization for deformable objects. <span style="color: #8B5A2B;">Recently, I have worked on rod insertion, soft-body projective dynamics, cutting simulation, and contributed to VBD-based optimization methods.</span>
+I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications. My research focuses on physics-based simulation and optimization for deformable objects.
+
+I am currently a research assistant at [UCLA](https://www.ucla.edu/), advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html). My current work focuses on cable manipulation through real-time anisotropic and elastoplastic rod simulation with non-penetrating contact, with deployment on a single-arm Franka robot. <span style="color: #8B5A2B;">Previously, I worked on rod insertion, soft-body projective dynamics, cutting simulation, and VBD-based optimization methods.</span>
 
 Education
 ======
