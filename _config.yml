@@ -306,6 +306,9 @@ timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 third_party_libraries: {}
 
+scholar:
+  bibliography: papers.bib
+
 # Plugins
 plugins:
   - jekyll-feed
