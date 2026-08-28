@@ -60,12 +60,14 @@ Research
 Projects
 ======
 
-- **Physics-Based Simulation Systems**: Implemented a mass-spring system, keyframe interpolation with quaternion and Euler approaches, and inverse kinematics with pseudo-inverse and Tikhonov regularization methods in C++.
-- **Game Development**: Developed Unity 3D games including Lucidmare, PL-23, and Donuts!, covering gameplay programming, technical design, and team leadership. Donuts! was published on Steam. See Art.
-- **3D Human Rendering**: Built a Unity rendering project with URP, hair anisotropy, and skin separable subsurface scattering, including GLSL deployment for skin shading.
-- **Hand-Scratching Gesture Recognition for AR Glasses**: Developed an Android application using CNN models to classify scratching sounds on AR glasses in real time, advised by Dr. Kening Zhu.
-- **NLP for Finance**: Built a PyTorch BERT sentiment analysis model for large-scale financial comments, advised by Dr. Linqi Song.
-- **Transportation Data Science**: At Siemens Mobility Hong Kong, developed map matching, route matching, traffic flow prediction, and time-series models including bi-LSTM, encoder-decoder LSTM, and ARIMA.
+{% assign featured_projects = site.portfolio | sort: "order" %}
+<div class="project-list project-list--featured">
+{% for project in featured_projects limit:4 %}
+  {% include project-card.html project=project %}
+{% endfor %}
+</div>
+
+<p class="projects-more"><a href="/projects/">View all projects <span aria-hidden="true">&rarr;</span></a></p>
 
 Work Experience
 ======

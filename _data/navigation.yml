@@ -4,5 +4,8 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Art"
     url: /art/

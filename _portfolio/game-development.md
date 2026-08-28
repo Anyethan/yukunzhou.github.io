@@ -1,0 +1,12 @@
+---
+title: "Game Development"
+short_title: "Unity Games"
+order: 2
+category: "Games"
+summary: "Unity 3D projects including Lucidmare, PL-23, and Donuts!, spanning gameplay programming, technical design, and team leadership."
+tags: ["Unity", "C#", "Game Design"]
+media_type: "video"
+accent: "coral"
+---
+
+This detail page can introduce the games, your role on each team, and a playable or Steam link. Replace this paragraph with the final project story and outcomes.
