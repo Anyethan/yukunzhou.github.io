@@ -226,8 +226,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /projects/:path/
+    output: false
 
 
 # These settings control how pages and collections are included in the site
@@ -258,16 +257,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: project
-      author_profile: true
-      share: false
-
-
 # Sass/SCSS
 sass:
   sass_dir: _sass

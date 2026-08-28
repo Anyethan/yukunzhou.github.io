@@ -8,5 +8,3 @@ tags: ["Unity", "C#", "Game Design"]
 media_type: "video"
 accent: "coral"
 ---
-
-This detail page can introduce the games, your role on each team, and a playable or Steam link. Replace this paragraph with the final project story and outcomes.

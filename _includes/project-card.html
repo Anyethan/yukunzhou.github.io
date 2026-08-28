@@ -1,6 +1,6 @@
 {% assign project = include.project %}
 <article class="project-card">
-  <a class="project-card__media project-media project-media--{{ project.accent | default: 'blue' }}" href="{{ project.url | relative_url }}" aria-label="View {{ project.title }}">
+  <div class="project-card__media project-media project-media--{{ project.accent | default: 'blue' }}">
     {% if project.thumbnail %}
       <img src="{{ project.thumbnail | relative_url }}" alt="{{ project.thumbnail_alt | default: project.title }}">
     {% else %}
@@ -10,17 +10,18 @@
     {% if project.media_type == "video" %}
       <span class="project-media__play" aria-hidden="true"><i class="fas fa-play"></i></span>
     {% endif %}
-  </a>
+  </div>
 
   <div class="project-card__body">
     <p class="project-card__meta">{{ project.category }}</p>
-    <h2 class="project-card__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+    <h2 class="project-card__title">{{ project.title }}</h2>
     <p class="project-card__summary">{{ project.summary }}</p>
     {% if project.tags %}
       <ul class="project-tags" aria-label="Technologies">
         {% for tag in project.tags %}<li>{{ tag }}</li>{% endfor %}
       </ul>
     {% endif %}
-    <a class="project-card__link" href="{{ project.url | relative_url }}">View project <span aria-hidden="true">&rarr;</span></a>
   </div>
+
+  {% include media-row.html label=project.title accent=project.accent %}
 </article>

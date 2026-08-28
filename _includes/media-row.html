@@ -1,0 +1,7 @@
+<div class="media-row" aria-label="{{ include.label }} media">
+  {% for item in (1..3) %}
+    <div class="media-row__item project-media project-media--{{ include.accent | default: 'slate' }}">
+      <span class="project-media__eyebrow">Photo / video {{ item }}</span>
+    </div>
+  {% endfor %}
+</div>

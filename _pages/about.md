@@ -34,28 +34,51 @@ Research Output
 Research
 ======
 
-- **Research Assistant**<br>
-  University of California, Los Angeles, Los Angeles, USA<br>
-  Advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html), June 2026 - Present.
-  - Developing real-time anisotropic and elastoplastic rod simulation with non-penetrating contact for cable manipulation.
-  - Deploying the system on a single-arm Franka robot.
-- **Joint RA-PhD Track - Physics-Based Simulation**<br>
-  Chinese Academy of Sciences (Hong Kong Institute of Science and Innovation) and The Chinese University of Hong Kong, Hong Kong<br>
-  Advised by Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=IsXcUo4AAAAJ&view_op=list_works&sortby=pubdate) and Dr. [Hongbin Liu](https://www.cair-cas.org.hk/article/29), July 2025 - June 2026.
-  - Working on accurate rod-insertion simulation based on Projective Dynamics, Cosserat rods, Lagrangian constraint-based methods, thickness-aware contact pressure, and rotational friction.
-  - Contributed to optimization work for the Vertex Block Descent project and manuscript.
-  - Developed and reproduced simulation systems including SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank updates, and lung puncturing simulation with Warp.
-  - Completed human brain 3D reconstruction from MRI images using neural networks.
-- **Summer Research Intern - Fluid Simulation about Neural and Particle Flow Map**<br>
-  Georgia Institute of Technology, Atlanta, USA<br>
-  Advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), June 2024 - September 2024.
-  - Replicated the Neural Flow Map algorithm in Taichi and developed a real-time 3D stable fluid simulation using OpenGL compute shaders.
-  - Accelerated Particle Flow Map simulation with long-range mapping and short-range projection, achieving an 80% speed improvement.
-- **Part-time Research Assistant - HCI Research on Games and Players**<br>
-  City University of Hong Kong, Hong Kong<br>
-  Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - September 2023.
-  - Led a first-author research project on games, ICT4D, player experience, and well-being.
-  - Developed design implications and application scenarios for improving player well-being through game-related systems.
+<div class="research-entry" markdown="1">
+**Research Assistant**<br>
+University of California, Los Angeles, Los Angeles, USA<br>
+Advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html), June 2026 - Present.
+
+- Developing real-time anisotropic and elastoplastic rod simulation with non-penetrating contact for cable manipulation.
+- Deploying the system on a single-arm Franka robot.
+
+{% include media-row.html label="UCLA research" accent="cyan" %}
+</div>
+
+<div class="research-entry" markdown="1">
+**Joint RA-PhD Track - Physics-Based Simulation**<br>
+Chinese Academy of Sciences (Hong Kong Institute of Science and Innovation) and The Chinese University of Hong Kong, Hong Kong<br>
+Advised by Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=IsXcUo4AAAAJ&view_op=list_works&sortby=pubdate) and Dr. [Hongbin Liu](https://www.cair-cas.org.hk/article/29), July 2025 - June 2026.
+
+- Working on accurate rod-insertion simulation based on Projective Dynamics, Cosserat rods, Lagrangian constraint-based methods, thickness-aware contact pressure, and rotational friction.
+- Contributed to optimization work for the Vertex Block Descent project and manuscript.
+- Developed and reproduced simulation systems including SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank updates, and lung puncturing simulation with Warp.
+- Completed human brain 3D reconstruction from MRI images using neural networks.
+
+{% include media-row.html label="CAS and CUHK research" accent="blue" %}
+</div>
+
+<div class="research-entry" markdown="1">
+**Summer Research Intern - Fluid Simulation about Neural and Particle Flow Map**<br>
+Georgia Institute of Technology, Atlanta, USA<br>
+Advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), June 2024 - September 2024.
+
+- Replicated the Neural Flow Map algorithm in Taichi and developed a real-time 3D stable fluid simulation using OpenGL compute shaders.
+- Accelerated Particle Flow Map simulation with long-range mapping and short-range projection, achieving an 80% speed improvement.
+
+{% include media-row.html label="Georgia Tech research" accent="violet" %}
+</div>
+
+<div class="research-entry" markdown="1">
+**Part-time Research Assistant - HCI Research on Games and Players**<br>
+City University of Hong Kong, Hong Kong<br>
+Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - September 2023.
+
+- Led a first-author research project on games, ICT4D, player experience, and well-being.
+- Developed design implications and application scenarios for improving player well-being through game-related systems.
+
+{% include media-row.html label="CityU research" accent="coral" %}
+</div>
 
 Projects
 ======

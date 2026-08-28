@@ -8,5 +8,3 @@ tags: ["Android", "CNN", "Audio"]
 media_type: "video"
 accent: "violet"
 ---
-
-This detail page can present the interaction concept, recognition pipeline, and evaluation results. Replace this paragraph when the supporting media and metrics are ready.

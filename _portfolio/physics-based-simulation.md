@@ -8,5 +8,3 @@ tags: ["C++", "Simulation", "Animation"]
 media_type: "video"
 accent: "cyan"
 ---
-
-This detail page is ready for a concise description of the problem, your implementation, and the most important result. Replace this paragraph when the final project material is available.

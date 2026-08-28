@@ -8,5 +8,3 @@ tags: ["PyTorch", "BERT", "NLP"]
 media_type: "image"
 accent: "blue"
 ---
-
-This detail page can describe the dataset, model pipeline, baselines, and evaluation results. Replace this paragraph with the final experiment summary.

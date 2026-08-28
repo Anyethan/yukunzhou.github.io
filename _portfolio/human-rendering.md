@@ -8,5 +8,3 @@ tags: ["Unity URP", "GLSL", "Rendering"]
 media_type: "video"
 accent: "amber"
 ---
-
-This detail page can explain the rendering pipeline, shader techniques, and visual comparisons. Replace this paragraph with the final technical breakdown.
