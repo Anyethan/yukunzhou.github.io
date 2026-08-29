@@ -7,4 +7,5 @@ summary: "A Unity rendering project combining URP, hair anisotropy, separable su
 tags: ["Unity URP", "GLSL", "Rendering"]
 media_type: "video"
 accent: "amber"
+media_key: "project_human_rendering"
 ---

@@ -42,7 +42,9 @@ Advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html)
 - Developing real-time anisotropic and elastoplastic rod simulation with non-penetrating contact for cable manipulation.
 - Deploying the system on a single-arm Franka robot.
 
-{% include media-row.html label="UCLA research" accent="cyan" %}
+{% include media-row.html label="UCLA research" accent="cyan" media_key="research_ucla" %}
+
+<p class="detail-link"><a href="/research/ucla/">More <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 <div class="research-entry" markdown="1">
@@ -55,7 +57,9 @@ Advised by Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&us
 - Developed and reproduced simulation systems including SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank updates, and lung puncturing simulation with Warp.
 - Completed human brain 3D reconstruction from MRI images using neural networks.
 
-{% include media-row.html label="CAS and CUHK research" accent="blue" %}
+{% include media-row.html label="CAS and CUHK research" accent="blue" media_key="research_cas_cuhk" %}
+
+<p class="detail-link"><a href="/research/cas-cuhk/">More <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 <div class="research-entry" markdown="1">
@@ -66,7 +70,9 @@ Advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), June 2024 - Sept
 - Replicated the Neural Flow Map algorithm in Taichi and developed a real-time 3D stable fluid simulation using OpenGL compute shaders.
 - Accelerated Particle Flow Map simulation with long-range mapping and short-range projection, achieving an 80% speed improvement.
 
-{% include media-row.html label="Georgia Tech research" accent="violet" %}
+{% include media-row.html label="Georgia Tech research" accent="violet" media_key="research_georgia_tech" %}
+
+<p class="detail-link"><a href="/research/georgia-tech/">More <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 <div class="research-entry" markdown="1">
@@ -77,7 +83,9 @@ Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - Sep
 - Led a first-author research project on games, ICT4D, player experience, and well-being.
 - Developed design implications and application scenarios for improving player well-being through game-related systems.
 
-{% include media-row.html label="CityU research" accent="coral" %}
+{% include media-row.html label="CityU research" accent="coral" media_key="research_cityu" %}
+
+<p class="detail-link"><a href="/research/cityu/">More <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 Projects

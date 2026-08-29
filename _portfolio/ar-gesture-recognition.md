@@ -7,4 +7,6 @@ summary: "An Android application that uses CNN models to recognize hand-scratchi
 tags: ["Android", "CNN", "Audio"]
 media_type: "video"
 accent: "violet"
+media_key: "project_ar"
+more_url: "/projects/ar-gesture-recognition/"
 ---

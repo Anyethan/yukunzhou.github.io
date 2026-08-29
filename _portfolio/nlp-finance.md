@@ -7,4 +7,5 @@ summary: "A PyTorch BERT sentiment-analysis pipeline for understanding large-sca
 tags: ["PyTorch", "BERT", "NLP"]
 media_type: "image"
 accent: "blue"
+media_key: "project_nlp"
 ---

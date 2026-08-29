@@ -7,4 +7,6 @@ summary: "Unity 3D projects including Lucidmare, PL-23, and Donuts!, spanning ga
 tags: ["Unity", "C#", "Game Design"]
 media_type: "video"
 accent: "coral"
+media_key: "project_game"
+more_url: "/projects/game-development/"
 ---

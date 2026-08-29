@@ -7,4 +7,6 @@ summary: "C++ implementations of deformation, animation, and inverse-kinematics 
 tags: ["C++", "Simulation", "Animation"]
 media_type: "video"
 accent: "cyan"
+media_key: "project_simulation"
+more_url: "/projects/physics-based-simulation/"
 ---
