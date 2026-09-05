@@ -23,6 +23,9 @@ research_ucla:
   - title: "PD Dry-Friction Contact with Crossing Rods"
     type: video
     source: "/videos/RA-UCLA/PD dry friction contact + crossing rod.mp4"
+  - title: "PD Midpoint Release"
+    type: video
+    source: "/videos/RA-UCLA/PD mid point release.mp4"
   - title: "PD Rod–Soft Body Contact with Dry Friction"
     type: video
     source: "/videos/RA-UCLA/PD rod-soft body + dry friction.mp4"
