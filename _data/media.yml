@@ -14,6 +14,9 @@ research_ucla:
   - title: "DER CIPC Contact and Dual-Gripper Lift"
     type: video
     source: "/videos/RA-UCLA/DER CIPC contact + dual gripper lift.mp4"
+  - title: "PD Plastic Deformation"
+    type: video
+    source: "/videos/RA-UCLA/PD Plastic.mp4"
   - title: "PD X-Axis Anisotropic Rectangular Cantilever Test"
     type: video
     source: "/videos/RA-UCLA/PD x-axis anisotropic rectagular cantilever test.mp4"
