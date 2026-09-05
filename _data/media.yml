@@ -11,7 +11,7 @@ research_ucla:
   - title: "DER CIPC Contact and Dual-Gripper Lift"
     type: video
     source: "/videos/RA-UCLA/DER CIPC contact + dual gripper lift.mp4"
-  - title: "DEP CIPC Plectoneme Formation"
+  - title: "DER CIPC Plectoneme Formation"
     type: video
     source: "/videos/RA-UCLA/DEP CIPC plectoneme_formation.mp4"
   - title: "PD X-Axis Anisotropic Rectangular Cantilever Test"
@@ -32,6 +32,14 @@ research_ucla:
   - title: "PD Plectoneme Formation"
     type: video
     source: "/videos/RA-UCLA/PD plectomneme_formation.mp4"
+
+research_ucla_preview:
+  - title: "DER CIPC Plectoneme Formation"
+    type: image
+    source: "/videos/RA-UCLA/DER CIPC plectoneme formation.gif"
+  - title: "DER CIPC Contact and Dual-Gripper Lift"
+    type: image
+    source: "/videos/RA-UCLA/DER CIPC dual gripper lift.gif"
 
 research_cas_cuhk:
   - title: "PD Insertion with Needle Volume Constraints"
