@@ -1,8 +1,7 @@
 ---
+layout: standalone-project
 title: "UCLA RA — Rod Simulation and Cable Manipulation"
 permalink: /projects/ucla-ra/
-back_url: /projects/
-back_label: "Back to Projects"
 media_key: "research_ucla"
 ---
 
