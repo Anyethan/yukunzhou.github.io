@@ -72,9 +72,6 @@ research_cas_cuhk:
     source: "/videos/3dbrain.png"
 
 research_cas_cuhk_preview:
-  - title: "VBD Optimization (Manuscript Under Review)"
-    type: image
-    source: "/videos/RA-Phd track/Paper_VBD_Under_Review.png"
   - title: "PD Insertion with Needle Volume Constraints"
     type: image
     source: "/videos/RA-Phd track/PD insertion needle volume constraints.gif"
