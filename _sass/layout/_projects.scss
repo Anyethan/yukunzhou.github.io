@@ -165,19 +165,3 @@
 .media-page__back {
   margin-top: 2rem;
 }
-
-@media (max-width: 767px) {
-  .research-entry--single-media {
-    grid-template-columns: 1fr;
-  }
-
-  .research-entry--single-media > .media-row,
-  .research-entry--single-media > .research-entry__body {
-    grid-column: 1;
-    grid-row: auto;
-  }
-
-  .research-entry--single-media > .media-row {
-    margin-bottom: 0.9rem;
-  }
-}
