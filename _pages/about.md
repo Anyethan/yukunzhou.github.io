@@ -31,7 +31,6 @@ Research Output
 ======
 
 - **Manuscript under review**: Anonymous author, Yukun Zhou, and other authors. About the optimization of Vertex Block Descent. Manuscript submitted, 2026.
-- **Manuscript in preparation**: Yukun Zhou and other authors. Thickness-Aware Rod Insertion Simulation with Rotational Friction. Manuscript in preparation, 2026.
 
 Research
 ======
@@ -54,6 +53,7 @@ Advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html)
 Chinese Academy of Sciences (Hong Kong Institute of Science and Innovation) and The Chinese University of Hong Kong, Hong Kong<br>
 Advised by Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=IsXcUo4AAAAJ&view_op=list_works&sortby=pubdate) and Dr. [Hongbin Liu](https://www.cair-cas.org.hk/article/29), July 2025 - June 2026.
 
+- **Manuscript in preparation**: Yukun Zhou and other authors. Thickness-Aware Rod Insertion Simulation with Rotational Friction. Manuscript in preparation, 2026.
 - Working on accurate rod-insertion simulation based on Projective Dynamics, Cosserat rods, Lagrangian constraint-based methods, thickness-aware contact pressure, and rotational friction.
 - Contributed to optimization work for the Vertex Block Descent project and manuscript.
 - Developed and reproduced simulation systems including SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank updates, and lung puncturing simulation with Warp.
