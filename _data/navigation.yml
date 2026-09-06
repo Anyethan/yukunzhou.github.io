@@ -12,25 +12,25 @@ main:
 
 home_sections:
   - title: "About"
-    url: /#about-me
+    url: "#about-me"
 
   - title: "Education"
-    url: /#education
+    url: "#education"
 
   - title: "Research Output"
-    url: /#research-output
+    url: "#research-output"
 
   - title: "Research"
-    url: /#research
+    url: "#research"
 
   - title: "Projects"
-    url: /#projects
+    url: "#projects"
 
   - title: "Work Experience"
-    url: /#work-experience
+    url: "#work-experience"
 
   - title: "Awards"
-    url: /#awards
+    url: "#awards"
 
   - title: "Art"
-    url: /#art
+    url: "#art"

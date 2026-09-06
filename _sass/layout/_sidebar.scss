@@ -76,6 +76,21 @@
   }
 }
 
+.sidebar .nav__list {
+  margin-top: 0.5rem;
+  font-size: $type-size-7;
+
+  ul {
+    margin-bottom: 0.5rem;
+  }
+
+  .nav__sub-title {
+    margin: 0.125rem 0;
+    padding: 0.25rem 0;
+    font-size: $type-size-7;
+  }
+}
+
 
 /*
    Table of contents
