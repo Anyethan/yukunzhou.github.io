@@ -47,7 +47,7 @@ Advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html)
 
 {% include media-row.html label="UCLA research" accent="cyan" media_key="research_ucla_preview" limit=2 %}
 
-<p class="detail-link"><a href="/projects/ucla-ra/">View UCLA RA project <span aria-hidden="true">&rarr;</span></a></p>
+<p class="detail-link"><a href="/projects/ucla-ra/" target="_blank" rel="noopener noreferrer" data-new-tab="true">View UCLA RA project <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 <div class="research-entry" markdown="1">
@@ -65,7 +65,7 @@ Advised by Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&us
 
 <p><small><em>Additional VBD images and videos are not shown because the manuscript is currently under review.</em></small></p>
 
-<p class="detail-link"><a href="/projects/cas-cuhk-ra/">View CAS and CUHK RA-PhD project <span aria-hidden="true">&rarr;</span></a></p>
+<p class="detail-link"><a href="/projects/cas-cuhk-ra/" target="_blank" rel="noopener noreferrer" data-new-tab="true">View CAS and CUHK RA-PhD project <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 <div class="research-entry" markdown="1">

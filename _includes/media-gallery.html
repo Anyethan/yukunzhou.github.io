@@ -11,7 +11,10 @@
           <img src="{{ item.source | relative_url }}" alt="{{ item.title }}" loading="lazy">
         {% endif %}
       </div>
-      <figcaption>{{ item.title }}</figcaption>
+      <figcaption>
+        {{ item.title }}
+        {% if item.note %}<span class="media-gallery__note">{{ item.note }}</span>{% endif %}
+      </figcaption>
     </figure>
   {% endfor %}
 </div>

@@ -162,6 +162,14 @@
   }
 }
 
+.media-gallery__note {
+  display: block;
+  margin-top: 0.2rem;
+  color: var(--global-text-color-light);
+  font-size: 0.85rem;
+  font-weight: 400;
+}
+
 .media-page__back {
   margin-top: 2rem;
 }
