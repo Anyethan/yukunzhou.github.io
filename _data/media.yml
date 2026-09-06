@@ -67,24 +67,29 @@ research_cas_cuhk:
     type: image
     source: "/videos/3dbrain.png"
 
+research_cas_cuhk_preview:
+  - title: "PD Insertion with Needle Volume Constraints"
+    type: image
+    source: "/videos/RA-Phd track/PD insertion needle volume constraints.gif"
+  - title: "PD Cutting with Low-Rank Updates"
+    type: image
+    source: "/videos/RA-Phd track/PD low-rank update cutting.gif"
+
 research_georgia_tech:
   - title: "Particle Flow Map Simulation I"
-    type: video
-    source: "/videos/Summer Intern - Gatech/ParaView 5.12.1 2025-06-05 21-26-14.mp4"
-  - title: "Particle Flow Map Simulation II"
-    type: video
-    source: "/videos/Summer Intern - Gatech/ParaView 5.12.1 2025-06-05 21-28-16.mp4"
-  - title: "Neural and Particle Flow Map Demo"
     type: image
-    source: "/videos/Summer Intern - Gatech/tutieshi_480x316_21s.gif"
+    source: "/videos/Summer Intern - Gatech/Particle Flow Map Simulation I.gif"
+  - title: "Particle Flow Map Simulation II"
+    type: image
+    source: "/videos/Summer Intern - Gatech/Particle Flow Map Simulation II.gif"
 
 research_cityu:
   - title: "HCI Research Paper"
     type: image
-    source: "/videos/hci-paper.png"
+    source: "/videos/hci-paper.gif"
   - title: "HCI Thematic Analysis"
     type: image
-    source: "/videos/hci-theme analysis.png"
+    source: "/videos/hci-theme analysis.gif"
 
 project_simulation:
   - title: "Mass-Spring Cube Simulation"

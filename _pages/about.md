@@ -59,9 +59,9 @@ Advised by Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&us
 - Developed and reproduced simulation systems including SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank updates, and lung puncturing simulation with Warp.
 - Completed human brain 3D reconstruction from MRI images using neural networks.
 
-{% include media-row.html label="CAS and CUHK research" accent="blue" media_key="research_cas_cuhk" %}
+{% include media-row.html label="CAS and CUHK research" accent="blue" media_key="research_cas_cuhk_preview" limit=2 %}
 
-<p class="detail-link"><a href="/research/cas-cuhk/">More <span aria-hidden="true">&rarr;</span></a></p>
+<p class="detail-link"><a href="/projects/cas-cuhk-ra/">View CAS and CUHK RA-PhD project <span aria-hidden="true">&rarr;</span></a></p>
 </div>
 
 <div class="research-entry" markdown="1">
@@ -72,9 +72,7 @@ Advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), June 2024 - Sept
 - Replicated the Neural Flow Map algorithm in Taichi and developed a real-time 3D stable fluid simulation using OpenGL compute shaders.
 - Accelerated Particle Flow Map simulation with long-range mapping and short-range projection, achieving an 80% speed improvement.
 
-{% include media-row.html label="Georgia Tech research" accent="violet" media_key="research_georgia_tech" %}
-
-<p class="detail-link"><a href="/research/georgia-tech/">More <span aria-hidden="true">&rarr;</span></a></p>
+{% include media-row.html label="Georgia Tech research" accent="violet" media_key="research_georgia_tech" limit=2 %}
 </div>
 
 <div class="research-entry" markdown="1">
@@ -85,9 +83,7 @@ Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - Sep
 - Led a first-author research project on games, ICT4D, player experience, and well-being.
 - Developed design implications and application scenarios for improving player well-being through game-related systems.
 
-{% include media-row.html label="CityU research" accent="coral" media_key="research_cityu" %}
-
-<p class="detail-link"><a href="/research/cityu/">More <span aria-hidden="true">&rarr;</span></a></p>
+{% include media-row.html label="CityU research" accent="coral" media_key="research_cityu" limit=2 %}
 </div>
 
 Projects
