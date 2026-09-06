@@ -5,7 +5,32 @@ main:
     url: /
 
   - title: "Projects"
-    url: /projects/
+    url: /#projects
 
   - title: "Art"
     url: /art/
+
+home_sections:
+  - title: "About"
+    url: /#about-me
+
+  - title: "Education"
+    url: /#education
+
+  - title: "Research Output"
+    url: /#research-output
+
+  - title: "Research"
+    url: /#research
+
+  - title: "Projects"
+    url: /#projects
+
+  - title: "Work Experience"
+    url: /#work-experience
+
+  - title: "Awards"
+    url: /#awards
+
+  - title: "Art"
+    url: /#art

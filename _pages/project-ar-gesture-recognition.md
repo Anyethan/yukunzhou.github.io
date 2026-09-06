@@ -1,7 +1,7 @@
 ---
 title: "Hand-Scratching Gesture Recognition"
 permalink: /projects/ar-gesture-recognition/
-back_url: /projects/
+back_url: /#projects
 back_label: "Back to Projects"
 media_key: "project_ar"
 ---

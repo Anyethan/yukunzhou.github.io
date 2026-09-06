@@ -3,6 +3,8 @@ permalink: /
 title: "Yukun Ethan Zhou"
 hide_title: true
 author_profile: true
+sidebar:
+  nav: "home_sections"
 redirect_from:
   - /about/
   - /about.html
@@ -91,14 +93,12 @@ Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - Sep
 Projects
 ======
 
-{% assign featured_projects = site.portfolio | sort: "order" %}
-<div class="project-list project-list--featured">
-{% for project in featured_projects limit:4 %}
+{% assign projects = site.portfolio | sort: "order" %}
+<div class="project-list">
+{% for project in projects %}
   {% include project-card.html project=project %}
 {% endfor %}
 </div>
-
-<p class="projects-more"><a href="/projects/">View all projects <span aria-hidden="true">&rarr;</span></a></p>
 
 Work Experience
 ======
