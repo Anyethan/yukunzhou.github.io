@@ -61,7 +61,9 @@ Advised by Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&us
 - Developed and reproduced simulation systems including SDF soft-body contact, DiSect differentiable cutting, FEM, Projective Dynamics cutting with low-rank updates, and lung puncturing simulation with Warp.
 - Completed human brain 3D reconstruction from MRI images using neural networks.
 
-{% include media-row.html label="CAS and CUHK research" accent="blue" media_key="research_cas_cuhk_preview" limit=2 %}
+{% include media-row.html label="CAS and CUHK research" accent="blue" media_key="research_cas_cuhk_preview" limit=3 %}
+
+<p><small><em>Additional VBD images and videos are not shown because the manuscript is currently under review.</em></small></p>
 
 <p class="detail-link"><a href="/projects/cas-cuhk-ra/">View CAS and CUHK RA-PhD project <span aria-hidden="true">&rarr;</span></a></p>
 </div>
