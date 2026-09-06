@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll("a[href]").forEach((link) => {
-    if (link.origin === window.location.origin) {
+    if (link.origin === window.location.origin || link.protocol === "mailto:") {
       link.removeAttribute("target");
       link.removeAttribute("rel");
       return;
