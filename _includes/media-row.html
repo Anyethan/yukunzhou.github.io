@@ -13,19 +13,5 @@
         {% endif %}
       </div>
     {% endfor %}
-    {% assign empty_slots = media_limit | minus: media_items.size %}
-    {% if empty_slots > 0 %}
-      {% for item in (1..empty_slots) %}
-        <div class="media-row__item project-media project-media--{{ include.accent | default: 'slate' }}">
-          <span class="project-media__eyebrow">Media placeholder</span>
-        </div>
-      {% endfor %}
-    {% endif %}
-  {% else %}
-    {% for item in (1..media_limit) %}
-      <div class="media-row__item project-media project-media--{{ include.accent | default: 'slate' }}">
-        <span class="project-media__eyebrow">Media placeholder</span>
-      </div>
-    {% endfor %}
   {% endif %}
 </div>

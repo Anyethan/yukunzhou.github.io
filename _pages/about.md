@@ -75,15 +75,17 @@ Advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), June 2024 - Sept
 {% include media-row.html label="Georgia Tech research" accent="violet" media_key="research_georgia_tech" limit=2 %}
 </div>
 
-<div class="research-entry" markdown="1">
+<div class="research-entry research-entry--single-media">
+{% include media-row.html label="CityU research" accent="coral" media_key="research_cityu" limit=1 %}
+
+<div class="research-entry__body" markdown="1">
 **Part-time Research Assistant - HCI Research on Games and Players**<br>
 City University of Hong Kong, Hong Kong<br>
 Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - September 2023.
 
 - Led a first-author research project on games, ICT4D, player experience, and well-being.
 - Developed design implications and application scenarios for improving player well-being through game-related systems.
-
-{% include media-row.html label="CityU research" accent="coral" media_key="research_cityu" limit=2 %}
+</div>
 </div>
 
 Projects

@@ -84,9 +84,6 @@ research_georgia_tech:
     source: "/videos/Summer Intern - Gatech/Particle Flow Map Simulation II.gif"
 
 research_cityu:
-  - title: "HCI Research Paper"
-    type: image
-    source: "/videos/hci-paper.gif"
   - title: "HCI Thematic Analysis"
     type: image
     source: "/videos/hci-theme analysis.gif"
