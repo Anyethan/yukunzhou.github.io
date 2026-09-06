@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll("a[href]").forEach((link) => {
-    if (link.getAttribute("href").startsWith("#")) {
+    if (link.origin === window.location.origin) {
       link.removeAttribute("target");
       link.removeAttribute("rel");
       return;

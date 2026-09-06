@@ -116,8 +116,3 @@ Awards
 
 - **Entrance Full Tuition Scholarship**, City University of Hong Kong, 2019 - 2023.
 - **Dean's List Awards for Outstanding Academic Performance**, City University of Hong Kong, 2019 - 2023.
-
-Art
-======
-
-My creative work is collected separately on the [Art](/art/) page.

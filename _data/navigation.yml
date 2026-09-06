@@ -4,9 +4,6 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Projects"
-    url: /#projects
-
   - title: "Art"
     url: /art/
 
@@ -31,6 +28,3 @@ home_sections:
 
   - title: "Awards"
     url: "#awards"
-
-  - title: "Art"
-    url: "#art"
